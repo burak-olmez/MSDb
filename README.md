@@ -22,5 +22,5 @@ $ npm run electron:serve
 
 ---
 
-## Lisance
-The MIT License (MIT)
+## License
+[The MIT License (MIT)](./LICENSE)
